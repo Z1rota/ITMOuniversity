@@ -1,4 +1,0 @@
-show
-info
-execute_script amogus.txt
-execute_script sugoma.txt
